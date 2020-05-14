@@ -1,0 +1,20 @@
+# Temp files
+*~
+*.swp
+*.DS_Store
+*.idea
+*.xml
+
+# Data files
+*.data
+creds/*.json
+uploads/*.png
+uploads/*.jpg
+
+# Compiled code
+bin/
+__pycache__
+*.class
+*.o
+*.pyc
+
